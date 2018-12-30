@@ -77,9 +77,6 @@
 
 <script>
 export default {
-  components: {
-    Logo
-  },
   data: () => ({
     image: require('@/assets/image.png'),
     topstories: [],
