@@ -1,7 +1,6 @@
 <template>
   <v-app>
     <v-toolbar
-      :clipped-left="clipped"
       fixed
       app
     >
@@ -18,7 +17,14 @@
       :fixed="fixed"
       app
     >
-      <span>&copy; 2017 samsonllam</span>
+      <span>
+        &copy; 2018 
+        <a 
+          target="_blank" 
+          href="https://github.com/samsonllam">
+          samsonllam
+        </a>
+      </span>
     </v-footer>
   </v-app>
 </template>
