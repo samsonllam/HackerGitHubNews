@@ -1,7 +1,7 @@
 {
   "name": "HackerGitHubNews",
   "version": "1.0.0",
-  "description": "My praiseworthy Nuxt.js project",
+  "description": "GitHub HackerNews Dashboard",
   "author": "samsonllam",
   "private": true,
   "scripts": {
